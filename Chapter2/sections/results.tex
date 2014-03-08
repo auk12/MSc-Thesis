@@ -3,7 +3,9 @@
 
 
 \subsection{Phase One - Relevance}
-\subsection{From CHV to Clinic}
+
+\subsection{Home Visits and Referrals}
+
 \subsubsection{Reporting Home Visits}
 \paragraph{CHVs described conducting home visits with patients as their major responsibility. They made rounds in their village at least one day per week, depending on their own work schedules. Number of households visited varied per week, but participants in the focus group collectively concluded that it took approximately 5-6 months to complete rounds at every household in their village before beginning again. Every two weeks, CHVs were required to visit the health facility to submit reports detailing a number of demographics - including number of pregnant women, number of infants under six months of age, number of children under age five, number of births, and number of women provided with family planning information and materials. These reports are then compiled for each month by the CHEWs\todo{i think this is the first this appears. introduce earlier, but even then, i suggest replacing acronym with the word supervisor.} of each region. Members of the focus group were unable to describe what type of analysis or evaluation took place after submission of their reports, and some questioned whether any oversight of the reported data took place.\todo{modify this description by deleting the part after the comma}}
 
@@ -34,7 +36,7 @@ Table~\ref{tab:chvreport}
 
 \paragraph{Discussion with the clinic nurses offered additional insight into the nature of CHV home visits. They noted that the CHVs submitted reports that were compiled monthly by the CHEWs. However, the nurses indicated that they rarely looked at the monthly CHV log books to track patient visits. Instead, the main indication of CHVs conducting home visits was the presence of patients with referral slips from their CHVs. The nurses reported that they received approximately 50 CHV referrals per week\todo{meaning slips? seems high for actual slips. if correct, let's put in terms of weekly patient volume}, with an estimated 15 being related to antenatal care visits. They also indicated that patients rarely came in with both copies of the CHV referral sheets, making it difficult to completely track the flow of referrals from CHV to clinic accurately.}
 
-\paragraph{Based on these findings, the research team designed a fast and simple method of reporting home visits to pregnant women and new mothers within a Verboice call flow. After completing a visit, the CHV flashes\todo{have you described this? include in the methods section} the Baby Monitor number and receives a free incoming call from the system. After indicating that they are a CHV and identifying themselves with their unique ID number, they are asked to \todo{to select from a menu of options that includes reporting a home visit}confirm that they would like to report a home visit. They are subsequently asked to identify the household they have visited by \todo{entering the phone number the woman provided at enrollment...we also need to describe somewhere how the CHV gets the woman's number.} their phone number. After confirming the phone number, they are asked to indicate the date of the visit by pressing '1' for today, '2' for yesterday, and '3' for another date\todo{before yesterday}. If they select another date, they are asked to input the month and date (following separate prompts) using their keypads. This information is saved in the Baby Monitor database, and the call is completed.}
+\paragraph{Based on these findings, the research team designed a fast and simple method of reporting home visits to pregnant women and new mothers within a Verboice call flow. After completing a visit, the CHV flashes\todo{have you described this? include in the methods section} the Baby Monitor number and receives a free incoming call from the system. After indicating that they are a CHV and identifying themselves with their unique ID number, they are asked to \todo{to select from a menu of options that includes reporting a home visit}confirm that they would like to report a home visit. They are subsequently asked to identify the household they have visited by \todo{entering the phone number the woman provided at enrollment...we also need to describe somewhere how the CHV gets the woman's number.} their phone number. After confirming the phone number, they are asked to indicate the date of the visit by pressing '1' for the current day, '2' for the previous day, and '3' for another date\todo{before yesterday}. If they select another date, they are asked to input the month and date (following separate prompts) using their keypads. This information is saved in the Baby Monitor database, and the call is completed.}
 
 Fig ~\ref{fig:homevisit}.
 \begin{figure}[]
@@ -45,12 +47,21 @@ Fig ~\ref{fig:homevisit}.
 	\label{fig:homevisit}
 \end{figure}
 
+\subsubsection{Referral Notifications}
+\paragraph{The CHV focus group agreed that the majority of their home visits concluded with a patient referral to the clinic. However, they also indicated that they had no way of knowing whether a patient followed up on that referral until their next visit to the household weeks or even months later. Most of these referrals were for routine prenatal visits for pregnant women. The CHVs indicated that most women did not follow up on routine prenatal care referrals due to the costs of the care and travel to the clinic. However, on June 1, 2013, President Uhuru Kenyatta declared that all public health facilities would provide free care to all pregnant women. While uncertain about its implementation, the CHVs were hopeful that this policy would drive more women to follow up on their referrals. }
+
+\paragraph{During the CHV shadow days, two women were identified as having missed a previous referral for prenatal care. The first woman had been referred three months before, but had since delivered a healthy baby at home without receiving any prenatal care. The second woman had been referred over six months before, and now had a healthy four month-old child. However, she hadn’t had a regular menstrual cycle in two months and the CHV suspected that she may be pregnant again. After visiting with this woman and making a referral to the clinic, the CHV expressed regret at not visiting this woman sooner. }
+
+\paragraph{Based on these results, the research team designed a text-message based system to provide CHVs with notifications when pregnant women in their villages visited the clinic.  As part of the larger Baby Monitor project, pregnant women who visited the clinic were asked to enroll in the Baby Monitor system. Any visit from an enrolled woman was logged by the clinic nurses. At the end of each day, this data was entered via FormHub, a mobile phone based data entry tool, into a secure server accessible only to the research team. An R script was written to use this data to match each woman who visited the clinic that day to the CHV assigned to their village. The script was automated to send text messages every morning to the corresponding CHVs, informing them that women from their village had visited the clinic the previous day.}
+
+\subsection{Deliveries}
+
 \subsubsection{Reporting Home Deliveries}
 \paragraph{As expected, both the CHV and nurse focus groups indicated that most pregnant women in this region delivered at home. Some of these women opt to deliver with their CHVs present, but many also use the services of birth attendants who assist in the delivery process in the woman's home. CHVs indicated little trouble in identifying home deliveries for reporting, as word of a new birth usually spread through the village quickly. The CHVs emphasized that word of mouth and speaking with community members was an especially important way for them to identify individuals who may require care. On the first field visit day with the research team, the CHV visited two new mothers after hearing from another community member that they had given birth within the past two months. Although the CHVs acknowledged a potential time delay in identifying deliveries by word of mouth, they collectively agreed that most deliveries were reported relatively soon after taking place.}\todo{within the first day? need to be more specific here. cases observed are very late. even best case scenario might be outside of window when most maternal and neonatal deaths occur.} 
 
 \paragraph{The clinic nurses indicated that the only report of home deliveries they receive are on the CHV monthly reports, which they previously acknowledged to using very rarely. They attributed the preference to deliver at home to cost of travel to Sinoko, and also indicated that not regularly checking for the number of recent deliveries presents challenges for providing postnatal care to women and children who may need it at the clinic.}
 
-\paragraph{To address these findings, the research team designed a call flow similar to that of reporting CHV home visits for reporting deliveries. After flashing the Baby Monitor system and identifying themselves as CHVs, the CHV is asked to identify the woman who has delivered by her phone number. Date of delivery is indicated by pressing '1' for today, '2' for yesterday, and '3' for another date, which is input directly using their keypads. This delivery information is saved into the Baby Monitor database, and the call is completed.}
+\paragraph{To address these findings, the research team designed a call flow similar to that of reporting CHV home visits for reporting deliveries. After flashing the Baby Monitor system and identifying themselves as CHVs, the CHV is asked to identify the woman who has delivered by her phone number. Date of delivery is indicated by pressing '1' for the current day, '2' for the previous day, and '3' for another date, which is input directly using their keypads. This delivery information is saved into the Baby Monitor database, and the call is completed.}
 
 Fig ~\ref{fig:delivery}.
 \begin{figure}[]
@@ -60,6 +71,12 @@ Fig ~\ref{fig:delivery}.
 	\caption{Call flow for reporting a delivery.}
 	\label{fig:delivery}
 \end{figure}
+
+\subsubsection{Delivery Notifications}
+\paragraph{How do we notify CHVs of deliveries that they may not be aware of? This section still to be determined.}
+\paragraph{For home deliveries, the research team created an identical delivery reporting call flow to be used by the new mothers or their family members. After flashing the Baby Monitor system and opting to report a delivery as, the user is asked to identify the new mother by her phone number. Date of delivery is indicated by pressing '1' for the current day, '2' for the previous day, and '3' for another date, which is input directly using their keypads. This  information is saved into the Baby Monitor database, and the call is completed. For deliveries at the clinic, all successful deliveries by enrolled women were logged by the clinic nurses. This logged data was entered via FormHub and stored in the Baby Monitor database. Using both sources of information, the clinic visit notification system was adapted to instead provide delivery notifications. In a similar manner, text messages were sent to CHVs every morning, informing them of deliveries that took place on the previous day. 
+
+\subsection{Emergencies}
 
 \subsubsection{Reporting Emergencies}
 \paragraph{The CHV focus group identified emergency reporting as a major area of concern in their existing workflow. CHVs reported that they were usually called by a family member during a health-related or pregnancy-related emergency. In most cases, they recommended that the patient travel to Sinoko\todo{i'd refrain from using the clinic name throughout this document, even in the setup section} to receive care at the clinic. However, they noted numerous occasions in which the patient arrived at Sinoko, only to find the clinic understaffed at that time of day or unprepared to handle certain emergency procedures due to limited medical supplies. The group attributed this to a lack of direct communication between the CHVs and the clinic, indicating if they knew that the clinic was not prepared for an incoming patient, they could refer and accompany the patient to another clinic or Webuye District Hospial\todo{same here. refer to closest level 3 facility}. They also indicated that news of these missed emergencies contributed to an unwillingness to visit Sinoko among community members. This perception was reflected during both field visit dates, as three separate pregnant women expressed some concern about delivering at Sinoko due to a combination of cost and prior missed emergencies.}
@@ -76,21 +93,6 @@ Fig ~\ref{fig:emergency}.
 	\caption{Call flow for reporting an emergency.}
 	\label{fig:emergency}
 \end{figure}
-
-\subsection{From Clinic to CHV}
-\paragraph{focus on CHV focus group for input on what information they need to make their jobs easier.}
-
-\subsubsection{Clinic Visit Notifications}
-\paragraph{The CHV focus group agreed that the majority of their home visits concluded with a patient referral to the clinic. However, they also indicated that they had no way of knowing whether a patient followed up on that referral until their next visit to the household weeks or even months later. Most of these referrals were for routine prenatal visits for pregnant women. The CHVs indicated that most women did not follow up on routine prenatal care referrals due to the costs of the care and travel to the clinic. However, on June 1, 2013, President Uhuru Kenyatta declared that all public health facilities would provide free care to all pregnant women. While uncertain about its implementation, the CHVs were hopeful that this policy would drive more women to follow up on their referrals. }
-
-\paragraph{During the CHV shadow days, two women were identified as having missed a previous referral for prenatal care. The first woman had been referred three months before, but had since delivered a healthy baby at home without receiving any prenatal care. The second woman had been referred over six months before, and now had a healthy four month-old child. However, she hadn’t had a regular menstrual cycle in two months and the CHV suspected that she may be pregnant again. After visiting with this woman and making a referral to the clinic, the CHV expressed regret at not visiting this woman sooner. }
-
-\paragraph{Based on these results, the research team designed a text-message based system to provide CHVs with notifications when pregnant women in their villages visited the clinic.  As part of the larger Baby Monitor project, pregnant women who visited the clinic were asked to enroll in the Baby Monitor system. Any visit from an enrolled woman was logged. At the end of each day, this data was entered via FormHub, a mobile phone based data entry tool, into a secure server accessible only to the research team. An R-script was written to use this data to match each woman who visited the clinic that day to the CHV assigned to their village. The script was automated to send text messages every morning to the corresponding CHVs, informing them that women from their village had visited the clinic the previous day.}
-
-
-\subsubsection{Clinic Delivery Notifications}
-\paragraph{
-}
 
 \subsection{Phase Two - Development}
 - mock testing phones: issue with credit
