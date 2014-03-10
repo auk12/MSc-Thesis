@@ -59,15 +59,15 @@
 \contentsline {paragraph}{Discussion with the clinic nurses also reflected concerns about emergency reporting and referral to the clinic. The nurses acknowledged that there was little to no direct communication between CHVs and the clinic staff about incoming emergencies. Pregnant women often came to deliver with little prior notice at any time of the day, making it difficult for the nurses to prepare for their care. The nurses indicated that only one nurse is typically on call overnight, and at least two nurses are needed to complete a safe delivery procedure. Moreover, the nurses indicated that the clinic has capacity for only three deliveries per week due to limited supplies. If more than three women came into the clinic for a delivery, they would have to wait for an ambulance to arrive from Webuye to take them to the District Hospital in town.}{16}{section*.90}
 \contentsline {paragraph}{Based on these results, the research team designed a simple call flow to be used by patients, family members of patients, and CHVs to report an emergency to a nurse on staff at Sinoko clinic. The user flashes the Baby Monitor system, and indicates that they would like to report an emergency. After confirming that the user would like to speak directly to a clinic nurse, the system forwards the call to the clinic phone, free of charge to the user. The user can then describe the emergency to the nurse at the clinic, and the nurse can advise the patient, family member, or CHV on how to proceed. This allows the nurse to prepare for the arrival of the patient and call the other nurses to the clinic if necessary.}{16}{section*.91}
 \contentsline {subsection}{\numberline {1.4.5}Phase Two - Development}{16}{subsection.1.4.5}
-\contentsline {subsubsection}{Upcoming Home Visits}{16}{section*.92}
-\contentsline {subsubsection}{Upcoming Delivery Dates}{16}{section*.93}
-\contentsline {subsection}{\numberline {1.4.6}Phase Three - Evaluation}{16}{subsection.1.4.6}
-\contentsline {subsubsection}{Usage of Patient Management System}{16}{section*.94}
-\contentsline {subsubsection}{Usability Testing Results}{16}{section*.95}
-\contentsline {section}{\numberline {1.5}Discussion}{16}{section.1.5}
-\contentsline {subsection}{\numberline {1.5.1}Principal Results}{16}{subsection.1.5.1}
-\contentsline {subsection}{\numberline {1.5.2}Limitations}{16}{subsection.1.5.2}
-\contentsline {subsection}{\numberline {1.5.3}Comparison with Prior Work}{16}{subsection.1.5.3}
-\contentsline {subsection}{\numberline {1.5.4}Conclusions}{16}{subsection.1.5.4}
+\contentsline {paragraph}{Mock testing of the above features was focused on identifying key strengths and areas for improvement for the system. Participants of the focus group indicated that the system was straightforward and simple, and was designed to provide useful information for their daily responsibilities. Participants also noted that the text message notifications regarding completed referrals and deliveries at the clinic would be helpful in terms of data collection for their biweekly reports. In all, the CHVs agreed that the major design features of the system addressed their major areas of concern in regards to communication between CHVs, the clinic, and their patients.}{16}{section*.92}
+\contentsline {paragraph}{While the participants were optimistic about the potential of the prototypes demonstrated at the mock testing session, they also voiced concern about accessing the system via mobile phone. Participants indicated that a lack of credit on CHV phones would affect use of the system, as a minimal amount of credit is required for a user to flash a number. According to the group, most CHVs carried very little credit on their phones on a day-to-day basis, adding money only when necessary due to cost. Group participants suggested that use of the system would vary greatly, since some CHVs were better at maintaining credit and using their phones regularly than others. To address these findings, the research team opted to provide a 50 Ksh incentive for each home visit and delivery reported by participating CHVs, thus encouraging CHVs to maintain a minimal amount of credit in order to engage with the system.}{18}{section*.93}
+\contentsline {subsection}{\numberline {1.4.6}Phase Three - Evaluation}{18}{subsection.1.4.6}
+\contentsline {subsubsection}{Usage of Patient Management System}{18}{section*.94}
+\contentsline {subsubsection}{Usability Testing Results}{18}{section*.95}
+\contentsline {section}{\numberline {1.5}Discussion}{18}{section.1.5}
+\contentsline {subsection}{\numberline {1.5.1}Principal Results}{18}{subsection.1.5.1}
+\contentsline {subsection}{\numberline {1.5.2}Limitations}{18}{subsection.1.5.2}
+\contentsline {subsection}{\numberline {1.5.3}Comparison with Prior Work}{18}{subsection.1.5.3}
+\contentsline {subsection}{\numberline {1.5.4}Conclusions}{18}{subsection.1.5.4}
 \contentsline {chapter}{\numberline {A}Usability Survey }{19}{appendix.A}
 \contentsline {chapter}{References}{21}{Item.10}
