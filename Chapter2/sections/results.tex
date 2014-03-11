@@ -2,35 +2,32 @@
 \paragraph{Throughout the relevance and development phases\todo{consider changing phase labels as noted in methods section}, the CHVs and nurses emphasized three key priorities for the design of a potential patient management system: communication from the CHV to the clinic, communication between the clinic and the CHV, and reminders for CHVs to help them keep up with their myriad of responsibilities on a day to day basis.} 
 
 
-\subsection{Phase One - Relevance}
+\subsection{Phase One - ``Hear''}
 
-\subsection{Home Visits and Referrals}
+\underline{\textit{Home Visits and Referrals}}
 
 \subsubsection{Reporting Home Visits}
 \paragraph{CHVs described conducting home visits with patients as their major responsibility. They made rounds in their village at least one day per week, depending on their own work schedules. Number of households visited varied per week, but participants in the focus group collectively concluded that it took approximately 5-6 months to complete rounds at every household in their village before beginning again. Every two weeks, CHVs were required to visit the health facility to submit reports detailing a number of demographics - including number of pregnant women, number of infants under six months of age, number of children under age five, number of births, and number of women provided with family planning information and materials. These reports are then compiled for each month by the CHEWs\todo{i think this is the first this appears. introduce earlier, but even then, i suggest replacing acronym with the word supervisor.} of each region. Members of the focus group were unable to describe what type of analysis or evaluation took place after submission of their reports, and some questioned whether any oversight of the reported data took place.\todo{modify this description by deleting the part after the comma}}
 
 %Table~\ref{tab:chvreport}
 \begin{table}[htbp]
-\begin{tabular}{l}
-Households
-\end{tabular}
-%  \centering
-%  \caption{Selected indicators from June 2013 CHV Monthly Report}
-%    \begin{tabular}{lrrr}
-%    \toprule
-%    \textbf{Community Unit} & \textit{Sinoko} & \textit{Magemo} & \textit{Sitabicha} \\
-%    \midrule
-%    Households & 148   & 6     & 92 \\
-%    Pregnant women & 22    & 9     & 8 \\
-%    Pregnant women who did not attend at least 4 ANC visits & 19    & 1     & 7 \\
-%    Pregnant women referred & 15    & 5     & 3 \\
-%    Deliveries by unskilled birth attendants & 11    & 3     & 7 \\
-%    Births & 30    & 4     & 10 \\
-%    Newborns referred & 17    & 4     & 10 \\
-%    Women aged 25-49 provided with FP commodities & 58    & 2     & 10 \\
-%    Maternal deaths & 0     & 0     & 0 \\
-%    \bottomrule
-%    \end{tabular}%
+  \centering
+  \caption{Selected indicators from June 2013 CHV Monthly Report}
+    \begin{tabular}{lrrr}
+    \toprule
+    \textbf{Community Unit} & \textit{Sinoko} & \textit{Magemo} & \textit{Sitabicha} \\
+    \midrule
+    Households & 148   & 6     & 92 \\
+    Pregnant women & 22    & 9     & 8 \\
+    Pregnant women who did not attend at least 4 ANC visits & 19    & 1     & 7 \\
+    Pregnant women referred & 15    & 5     & 3 \\
+    Deliveries by unskilled birth attendants & 11    & 3     & 7 \\
+    Births & 30    & 4     & 10 \\
+    Newborns referred & 17    & 4     & 10 \\
+    Women aged 25-49 provided with FP commodities & 58    & 2     & 10 \\
+    Maternal deaths & 0     & 0     & 0 \\
+    \bottomrule
+    \end{tabular}%
   \label{tab:chvreport}%
 \end{table}%
 
@@ -57,7 +54,7 @@ Fig ~\ref{fig:homevisit}.
 
 \paragraph{Based on these results, the research team designed a text-message based system to provide CHVs with notifications when pregnant women in their villages visited the clinic.  As part of the larger Baby Monitor project, pregnant women who visited the clinic were asked to enroll in the Baby Monitor system. Any visit from an enrolled woman was logged by the clinic nurses. At the end of each day, this data was entered via FormHub, a mobile phone based data entry tool, into a secure server accessible only to the research team. An R script was written to use this data to match each woman who visited the clinic that day to the CHV assigned to their village. The script was automated to send text messages every morning to the corresponding CHVs, informing them that women from their village had visited the clinic the previous day.}
 
-\subsection{Deliveries}
+\underline{\textit{Deliveries}}
 
 \subsubsection{Reporting Home Deliveries}
 \paragraph{As expected, both the CHV and nurse focus groups indicated that most pregnant women in this region delivered at home. Some of these women opt to deliver with their CHVs present, but many also use the services of birth attendants who assist in the delivery process in the woman's home. CHVs indicated little trouble in identifying home deliveries for reporting, as word of a new birth usually spread through the village quickly. The CHVs emphasized that word of mouth and speaking with community members was an especially important way for them to identify individuals who may require care. On the first field visit day with the research team, the CHV visited two new mothers after hearing from another community member that they had given birth within the past two months. Although the CHVs acknowledged a potential time delay in identifying deliveries by word of mouth, they collectively agreed that most deliveries were reported relatively soon after taking place.}\todo{within the first day? need to be more specific here. cases observed are very late. even best case scenario might be outside of window when most maternal and neonatal deaths occur.} 
@@ -80,7 +77,7 @@ Fig ~\ref{fig:delivery}.
 
 \paragraph{For home deliveries, the research team created an identical delivery reporting call flow to be used by the new mothers or their family members. After flashing the Baby Monitor system and opting to report a delivery as, the user is asked to identify the new mother by her phone number. Date of delivery is indicated by pressing '1' for the current day, '2' for the previous day, and '3' for another date, which is input directly using their keypads. This  information is saved into the Baby Monitor database, and the call is completed. For deliveries at the clinic, all successful deliveries by enrolled women were logged by the clinic nurses. This logged data was entered via FormHub and stored in the Baby Monitor database. Using both sources of information, the clinic visit notification system was adapted to instead provide delivery notifications. In a similar manner, text messages were sent to CHVs every morning, informing them of deliveries that took place on the previous day.} 
 
-\subsection{Emergencies}
+\underline{\textit{Emergencies}}
 
 \subsubsection{Reporting Emergencies}
 \paragraph{The CHV focus group identified emergency reporting as a major area of concern in their existing workflow. CHVs reported that they were usually called by a family member during a health-related or pregnancy-related emergency. In most cases, they recommended that the patient travel to Sinoko\todo{i'd refrain from using the clinic name throughout this document, even in the setup section} to receive care at the clinic. However, they noted numerous occasions in which the patient arrived at Sinoko, only to find the clinic understaffed at that time of day or unprepared to handle certain emergency procedures due to limited medical supplies. The group attributed this to a lack of direct communication between the CHVs and the clinic, indicating if they knew that the clinic was not prepared for an incoming patient, they could refer and accompany the patient to another clinic or Webuye District Hospial\todo{same here. refer to closest level 3 facility}. They also indicated that news of these missed emergencies contributed to an unwillingness to visit Sinoko among community members. This perception was reflected during both field visit dates, as three separate pregnant women expressed some concern about delivering at Sinoko due to a combination of cost and prior missed emergencies.}
