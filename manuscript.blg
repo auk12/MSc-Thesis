@@ -3,7 +3,13 @@ A level-1 auxiliary file: ./Abstract/abstract.aux
 A level-1 auxiliary file: ./Chapter1/chapter-one.aux
 A level-1 auxiliary file: ./Chapter2/academic-manuscript.aux
 A level-1 auxiliary file: ./Appendix1/usability.aux
-The style file: ./Bibliography/plainnat.bst
+The style file: ./Bibliography/apa.bst
 Database file #1: ./Bibliography/BabyMonitor.bib
+I was expecting a `,' or a `}'---line 576 of file ./Bibliography/BabyMonitor.bib
+ : 
+ : year={2014}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
 Warning--empty journal in Adler2007
-(There was 1 warning)
+Warning--empty year in MAMA; set to ????
+(There was 1 error message)

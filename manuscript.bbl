@@ -1,128 +1,149 @@
-\begin{thebibliography}{19}
-\providecommand{\natexlab}[1]{#1}
-\providecommand{\url}[1]{\texttt{#1}}
-\expandafter\ifx\csname urlstyle\endcsname\relax
-  \providecommand{\doi}[1]{doi: #1}\else
-  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+\begin{thebibliography}{23}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{{\tt #1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
 
-\bibitem[Adler(2007)]{Adler2007}
-R.~Adler.
+\bibitem[{Adler(2007)}]{Adler2007}
+Adler, R. (2007).
 \newblock Health care unplugged: The evolving role of wireless technology.
-\newblock 2007.
 
-\bibitem[Cole-Lewis and Kershaw(2010)]{ColeLewis2010}
-H.~Cole-Lewis and T.~Kershaw.
+\bibitem[{Cole-Lewis \& Kershaw(2010)}]{ColeLewis2010}
+Cole-Lewis, H., \& Kershaw, T. (2010).
 \newblock Text messaging as a tool for behavior change in disease prevention
   and management.
-\newblock \emph{Epidemiol Rev}, 32\penalty0 (1):\penalty0 56--69, 2010.
+\newblock {\em Epidemiol Rev\/}, {\em 32\/}(1), 56--69.
 
-\bibitem[Guy et~al.(2012)Guy, Hocking, Wand, Stott, Ali, and Kaldor]{Guy2012}
-R.~Guy, J.~Hocking, H.~Wand, S.~Stott, H.~Ali, and J.~Kaldor.
+\bibitem[{DeRenzi et~al.(2012)DeRenzi, Findlater, Payne, Birnbaum, Mangilima,
+  Parikh, Borriello, \& Lesh}]{DeRenzi2012}
+DeRenzi, B., Findlater, L., Payne, J., Birnbaum, B., Mangilima, J., Parikh, T.,
+  Borriello, G., \& Lesh, N. (2012).
+\newblock Improving community health worker performance through automated sms.
+\newblock In {\em Proceedings of the Fifth International Conference on
+  Information and Communication Technologies and Development\/}, (pp. 25--34).
+  ACM.
+
+\bibitem[{Guy et~al.(2012)Guy, Hocking, Wand, Stott, Ali, \& Kaldor}]{Guy2012}
+Guy, R., Hocking, J., Wand, H., Stott, S., Ali, H., \& Kaldor, J. (2012).
 \newblock How effective are short message service reminders at increasing
   clinic attendance? a meta-analysis and systematic review.
-\newblock \emph{Health Serv Res}, 47\penalty0 (2):\penalty0 614--32, 2012.
+\newblock {\em Health Serv Res\/}, {\em 47\/}(2), 614--32.
 
-\bibitem[Horvath et~al.(2012)Horvath, Azman, Kennedy, and
-  Rutherford]{Horvath2012}
-T.~Horvath, H.~Azman, G.~E. Kennedy, and G.~W. Rutherford.
+\bibitem[{Horvath et~al.(2012)Horvath, Azman, Kennedy, \&
+  Rutherford}]{Horvath2012}
+Horvath, T., Azman, H., Kennedy, G.~E., \& Rutherford, G.~W. (2012).
 \newblock Mobile phone text messaging for promoting adherence to antiretroviral
   therapy in patients with hiv infection.
-\newblock \emph{Cochrane Database Syst Rev}, 3:\penalty0 CD009756, 2012.
+\newblock {\em Cochrane Database Syst Rev\/}, {\em 3\/}, CD009756.
 
-\bibitem[Hughes and Lonie(2007)]{Hughes2007}
-Nick Hughes and Susie Lonie.
+\bibitem[{Hughes \& Lonie(2007)}]{Hughes2007}
+Hughes, N., \& Lonie, S. (2007).
 \newblock M-pesa: mobile money for the “unbanked” turning cellphones into
   24-hour tellers in kenya.
-\newblock \emph{Innovations}, 2\penalty0 (1-2):\penalty0 63--81, 2007.
+\newblock {\em Innovations\/}, {\em 2\/}(1-2), 63--81.
 
-\bibitem[Jareethum et~al.(2008)Jareethum, Titapant, Chantra, Sommai,
-  Chuenwattana, and Jirawan]{Jareethum2008}
-R.~Jareethum, V.~Titapant, T.~Chantra, V.~Sommai, P.~Chuenwattana, and
-  C.~Jirawan.
+\bibitem[{Jareethum et~al.(2008)Jareethum, Titapant, Chantra, Sommai,
+  Chuenwattana, \& Jirawan}]{Jareethum2008}
+Jareethum, R., Titapant, V., Chantra, T., Sommai, V., Chuenwattana, P., \&
+  Jirawan, C. (2008).
 \newblock Satisfaction of healthy pregnant women receiving short message
   service via mobile phone for prenatal support: A randomized controlled trial.
-\newblock \emph{J Med Assoc Thai}, 91\penalty0 (4):\penalty0 458--63, 2008.
+\newblock {\em J Med Assoc Thai\/}, {\em 91\/}(4), 458--63.
 
-\bibitem[Krishna and Boren(2008)]{Krishna2008}
-S.~Krishna and S.~A. Boren.
+\bibitem[{Krishna \& Boren(2008)}]{Krishna2008}
+Krishna, S., \& Boren, S.~A. (2008).
 \newblock Diabetes self-management care via cell phone: a systematic review.
-\newblock \emph{J Diabetes Sci Technol}, 2\penalty0 (3):\penalty0 509--17,
-  2008.
+\newblock {\em J Diabetes Sci Technol\/}, {\em 2\/}(3), 509--17.
 
-\bibitem[Labrique et~al.(2013)Labrique, Vasudevan, Kochi, Fabricant, and
-  Mehl]{Labrique2013}
-Alain~B Labrique, Lavanya Vasudevan, Erica Kochi, Robert Fabricant, and Garrett
-  Mehl.
+\bibitem[{Labrique et~al.(2013)Labrique, Vasudevan, Kochi, Fabricant, \&
+  Mehl}]{Labrique2013}
+Labrique, A., Vasudevan, L., Kochi, E., Fabricant, R., \& Mehl, G. (2013).
 \newblock mhealth innovations as health system strengthening tools: 12 common
   applications and a visual framework.
-\newblock \emph{Global Health: Science and Practice}, 1\penalty0 (2):\penalty0
-  160--171, 2013.
+\newblock {\em Global Health: Science and Practice\/}, {\em 1\/}(2), 160--171.
 
-\bibitem[Lee et~al.(2003)Lee, Friedman, Cukor, and Ahern]{Lee2003}
-Haeok Lee, Mary~Ellen Friedman, Peter Cukor, and David Ahern.
+\bibitem[{Lee et~al.(2003)Lee, Friedman, Cukor, \& Ahern}]{Lee2003}
+Lee, H., Friedman, M.~E., Cukor, P., \& Ahern, D. (2003).
 \newblock Interactive voice response system (ivrs) in health care services.
-\newblock \emph{Nursing outlook}, 51\penalty0 (6):\penalty0 277--283, 2003.
+\newblock {\em Nursing outlook\/}, {\em 51\/}(6), 277--283.
 
-\bibitem[Mas and Radcliffe(2010)]{Mas2010}
-Ignacio Mas and Dan Radcliffe.
+\bibitem[{MAMA()}]{MAMA}
+MAMA (????).
+\newblock Mama mobile messages.
+\newblock \url{http://http://www.mobilemamaalliance.org/mobile-messages}.
+
+\bibitem[{Mas \& Radcliffe(2010)}]{Mas2010}
+Mas, I., \& Radcliffe, D. (2010).
 \newblock Mobile payments go viral: M-pesa in kenya.
-\newblock \emph{Yes Africa can: success stories from a dynamic continent},
-  2010.
+\newblock {\em Yes Africa can: success stories from a dynamic continent\/}.
 
-\bibitem[McCartney(2012)]{McCartney2012}
-P.~McCartney.
+\bibitem[{McCartney(2012)}]{McCartney2012}
+McCartney, P. (2012).
 \newblock Global maternal-child mobile health.
-\newblock \emph{MCN Am J Matern Child Nurs}, 37\penalty0 (5):\penalty0 347,
-  2012.
+\newblock {\em MCN Am J Matern Child Nurs\/}, {\em 37\/}(5), 347.
 
-\bibitem[Oviatt(2006)]{Oviatt2006}
-S.~Oviatt.
+\bibitem[{Oviatt(2006)}]{Oviatt2006}
+Oviatt, S. (2006).
 \newblock Human-centered design meets cognitive load theory: designing
   interfaces that help people think.
-\newblock In \emph{International Multimedia Conference: Proceedings of the 14
-  th annual ACM international conference on Multimedia}, volume~23, pages
-  871--880, 2006.
+\newblock In {\em International Multimedia Conference: Proceedings of the 14 th
+  annual ACM international conference on Multimedia\/}, vol.~23, (pp.
+  871--880).
 
-\bibitem[Piette(2000)]{Piette2000}
-John~D Piette.
+\bibitem[{Piette(2000)}]{Piette2000}
+Piette, J. (2000).
 \newblock Interactive voice response systems in the diagnosis and management of
   chronic disease.
-\newblock \emph{Am J Manag Care}, 6\penalty0 (7):\penalty0 817--827, 2000.
+\newblock {\em Am J Manag Care\/}, {\em 6\/}(7), 817--827.
 
-\bibitem[Ronsmans et~al.(2006)Ronsmans, Graham, and Lancet Maternal Survival
-  Series~steering]{Ronsmans2006}
-C.~Ronsmans, W.~J. Graham, and group Lancet Maternal Survival Series~steering.
+\bibitem[{Ronsmans et~al.(2006)Ronsmans, Graham, \& Lancet Maternal Survival
+  Series~steering}]{Ronsmans2006}
+Ronsmans, C., Graham, W.~J., \& Lancet Maternal Survival Series~steering, g.
+  (2006).
 \newblock Maternal mortality: who, when, where, and why.
-\newblock \emph{Lancet}, 368\penalty0 (9542):\penalty0 1189--200, 2006.
+\newblock {\em Lancet\/}, {\em 368\/}(9542), 1189--200.
 
-\bibitem[Tamrat and Kachnowski(2012)]{Tamrat2012}
-T.~Tamrat and S.~Kachnowski.
+\bibitem[{Sherwani et~al.(2007)Sherwani, Ali, Mirza, Fatma, Memon, Karim,
+  Tongia, \& Rosenfeld}]{Sherwani2007}
+Sherwani, J., Ali, N., Mirza, S., Fatma, A., Memon, Y., Karim, M., Tongia, R.,
+  \& Rosenfeld, R. (2007).
+\newblock Healthline: Speech-based access to health information by low-literate
+  users.
+\newblock In {\em Information and Communication Technologies and Development,
+  2007. ICTD 2007. International Conference on\/}, (pp. 1--9). IEEE.
+
+\bibitem[{Tamrat \& Kachnowski(2012)}]{Tamrat2012}
+Tamrat, T., \& Kachnowski, S. (2012).
 \newblock Special delivery: an analysis of mhealth in maternal and newborn
   health programs and their outcomes around the world.
-\newblock \emph{Matern Child Health J}, 16\penalty0 (5):\penalty0 1092--101,
-  2012.
+\newblock {\em Matern Child Health J\/}, {\em 16\/}(5), 1092--101.
 
-\bibitem[Thaddeus and Maine(1994)]{Thaddeus1994}
-S.~Thaddeus and D.~Maine.
+\bibitem[{Thaddeus \& Maine(1994)}]{Thaddeus1994}
+Thaddeus, S., \& Maine, D. (1994).
 \newblock Too far to walk: maternal mortality in context.
-\newblock \emph{Soc Sci Med}, 38\penalty0 (8):\penalty0 1091--110, 1994.
+\newblock {\em Soc Sci Med\/}, {\em 38\/}(8), 1091--110.
 
-\bibitem[WHO. et~al.(2012)WHO., Bank., UNICEF, and Fund.]{WHO2012}
-WHO., World Bank., UNICEF, and United Nations~Population Fund.
-\newblock \emph{Trends in maternal mortality: 1990 to 2010: WHO, UNICEF, UNFPA
-  and The World Bank estimates}.
-\newblock World Health Organization, Geneva, 2012.
+\bibitem[{UNICEF et~al.(2008)}]{UNICEF2008}
+UNICEF, et~al. (2008).
+\newblock Maternal and perinatal death inquiry and response: Empowering
+  communities to avert maternal deaths in india.
+\newblock {\em New Delhi: UNICEF\/}.
 
-\bibitem[Woods et~al.(2012)Woods, Attwell, Ross, and Theron]{Woods2012}
-D.~Woods, A.~Attwell, K.~Ross, and G.~Theron.
+\bibitem[{WHO. et~al.(2012)WHO., Bank., UNICEF, \& Fund.}]{WHO2012}
+WHO., Bank., W., UNICEF, \& Fund., U. N.~P. (2012).
+\newblock {\em Trends in maternal mortality: 1990 to 2010: WHO, UNICEF, UNFPA
+  and The World Bank estimates\/}.
+\newblock Geneva: World Health Organization.
+
+\bibitem[{Woods et~al.(2012)Woods, Attwell, Ross, \& Theron}]{Woods2012}
+Woods, D., Attwell, A., Ross, K., \& Theron, G. (2012).
 \newblock Text messages as a learning tool for midwives.
-\newblock \emph{Samj South African Medical Journal}, 102\penalty0 (2):\penalty0
-  100--101, 2012.
+\newblock {\em Samj South African Medical Journal\/}, {\em 102\/}(2), 100--101.
 
-\bibitem[Yen et~al.(2010)Yen, Wantland, and Bakken]{Yen2010}
-Po-Yin Yen, Dean Wantland, and Suzanne Bakken.
+\bibitem[{Yen et~al.(2010)Yen, Wantland, \& Bakken}]{Yen2010}
+Yen, P., Wantland, D., \& Bakken, S. (2010).
 \newblock Development of a customizable health it usability evaluation scale.
-\newblock In \emph{AMIA Annual Symposium Proceedings}, volume 2010, page 917.
-  American Medical Informatics Association, 2010.
+\newblock In {\em AMIA Annual Symposium Proceedings\/}, vol. 2010, (p. 917).
+  American Medical Informatics Association.
 
 \end{thebibliography}
