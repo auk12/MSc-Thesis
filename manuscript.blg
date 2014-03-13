@@ -2,6 +2,7 @@ This is BibTeX, Version 0.99dThe top-level auxiliary file: manuscript.aux
 A level-1 auxiliary file: ./Abstract/abstract.aux
 A level-1 auxiliary file: ./Chapter1/chapter-one.aux
 A level-1 auxiliary file: ./Chapter2/academic-manuscript.aux
+A level-1 auxiliary file: ./Chapter3/chapter-three.aux
 A level-1 auxiliary file: ./Appendix1/usability.aux
 The style file: ./Bibliography/apa.bst
 Database file #1: ./Bibliography/BabyMonitor.bib
@@ -10,6 +11,20 @@ I was expecting a `,' or a `}'---line 576 of file ./Bibliography/BabyMonitor.bib
  : year={2014}
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 614 of file ./Bibliography/BabyMonitor.bib
+ :   
+ :   author = {Kenya Ministry of Health}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 620 of file ./Bibliography/BabyMonitor.bib
+ :   
+ :   year={2009}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--to sort, need author or key in CommunityStrategy2006
+Warning--to sort, need author or key in Census2009
+Warning--empty year in Census2009; set to ????
+Warning--empty year in CommunityStrategy2006; set to ????
 Warning--empty journal in Adler2007
 Warning--empty year in MAMA; set to ????
-(There was 1 error message)
+(There were 3 error messages)

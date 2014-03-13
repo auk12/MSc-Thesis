@@ -1,8 +1,10 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {2.1}{\ignorespaces Call flow for reporting a home visit.}}{17}{figure.2.1}
-\contentsline {figure}{\numberline {2.2}{\ignorespaces Call flow for reporting a delivery.}}{20}{figure.2.2}
-\contentsline {figure}{\numberline {2.3}{\ignorespaces Call flow for reporting an emergency.}}{23}{figure.2.3}
-\contentsline {figure}{\numberline {2.4}{\ignorespaces CHVs generally found the service to be usable. The SMS messages sent by the system were among the highest rated features of the system. Overall, 94\% of respondents believed that the system helped them do their jobs as CHVs better than before.}}{25}{figure.2.4}
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Call flow for reporting an emergency.}}{22}{figure.2.1}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces CHVs generally found the service to be usable. The SMS messages sent by the system were among the highest rated features of the system. Overall, 94\% of respondents believed that the system helped them do their jobs as CHVs better than before.}}{23}{figure.2.2}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {B.1}{\ignorespaces Call flow for reporting a home visit.}}{29}{figure.B.1}
+\contentsline {figure}{\numberline {B.2}{\ignorespaces Call flow for reporting a delivery.}}{30}{figure.B.2}
+\contentsline {figure}{\numberline {B.3}{\ignorespaces Call flow for reporting an emergency.}}{31}{figure.B.3}

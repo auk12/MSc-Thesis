@@ -1,46 +1,49 @@
 \contentsline {todo}{Need to flesh out this area. - A}{2}{section*.9}
-\contentsline {todo}{Justify why this study was focused on referrals and patient management. Conclude with objective(s) of the study. -A}{5}{section*.19}
-\contentsline {todo}{add that most deaths occur during delivery or within first few days}{8}{section*.21}
-\contentsline {todo}{i've never used paragraph tags in this manner. maybe rstudio adds them for me when i compile from rnw file}{8}{section*.23}
-\contentsline {todo}{add stat on percentage of compilcations and note that they are often hard to predict}{8}{section*.25}
-\contentsline {todo}{cite intrapartum strategy and debate about how to invest: more emoc or skilled attendants at birth. need to better set up the importance of referral system in both.}{8}{section*.26}
-\contentsline {todo}{i'd remove from ``by'' to end and introduce details later. specific details introduced here do not support referral piece, so it's not the best way to end this paragraph.}{8}{section*.27}
-\contentsline {todo}{insert mobile money and cite mpesa specfically before moving into health. that's where most progress has been made, certainly most uptake.}{9}{section*.29}
-\contentsline {todo}{not sure about ``most promising'' because we don't know compared to what. maybe just ``are a promising''.}{9}{section*.30}
-\contentsline {todo}{cite}{9}{section*.32}
-\contentsline {todo}{i think we need a better structure here. maybe funnel from technology, e.g., sms, to end-user, e.g., chw}{9}{section*.34}
-\contentsline {todo}{need to work in lavanya's paper}{9}{section*.35}
-\contentsline {todo}{not sure what you are saying with ``focused on mobile health interventions''}{9}{section*.36}
-\contentsline {todo}{check this. i thought they just provided the content, not the service}{10}{section*.38}
-\contentsline {todo}{i think you can expand this paragraph to synthesize the gaps, introduce baby monitor (all but technical details like verboice), and then articulate the motivation for this focus on referrals.}{10}{section*.40}
-\contentsline {todo}{i'd make this last sentence a new paragraph and describe the kenyan system in a few sentences. alternatively, and maybe preferably, add this to the introduction. if you do the latter, this sentence will have context.}{10}{section*.42}
-\contentsline {todo}{hmmm, philosophy sounds not scientific maybe philosopy and methods?}{10}{section*.43}
-\contentsline {todo}{add needs}{10}{section*.44}
-\contentsline {todo}{placeholder here for possible addition of use metrics}{10}{section*.46}
-\contentsline {todo}{could use a ``for instance'' here}{10}{section*.47}
-\contentsline {todo}{include distance}{11}{section*.49}
-\contentsline {todo}{i think we need to reference the new units that came out of the new constitution. provinces have been dissolved. counties are the new first level. we are in bungoma county. ndivisi is still the division.}{11}{section*.50}
-\contentsline {todo}{define}{11}{section*.51}
-\contentsline {todo}{maybe a footnote to explain positions. not all nurses had same level.}{11}{section*.54}
-\contentsline {todo}{define and talk about community units as part of community strategy}{11}{section*.55}
-\contentsline {todo}{i wonder if we should use the same HCD headings: hear, create, deliver...always good to anchor in terms of methodology}{11}{section*.56}
-\contentsline {todo}{i think this needs to be more active to represent what you did. really shadowing, right?}{12}{section*.59}
-\contentsline {todo}{if you introduce IVR at the end of the intro, then can assume reader remembers here. note that i am adding text directly to the document.}{12}{section*.61}
-\contentsline {todo}{i'd recommend mini-headings for each component}{12}{section*.63}
-\contentsline {todo}{be sure to define earlier}{13}{section*.64}
-\contentsline {todo}{replace with self-reported}{14}{section*.69}
-\contentsline {todo}{since we could have asked them to use the keys 1-4, design was not a limitation. ease of understaning and administration was the reason.}{14}{section*.70}
-\contentsline {todo}{consider changing phase labels as noted in methods section}{14}{section*.72}
-\contentsline {todo}{i think this is the first this appears. introduce earlier, but even then, i suggest replacing acronym with the word supervisor.}{15}{section*.75}
-\contentsline {todo}{modify this description by deleting the part after the comma}{15}{section*.76}
-\contentsline {todo}{consider a different name of activity as mentioned earlier}{15}{section*.78}
-\contentsline {todo}{do we know why?}{15}{section*.79}
-\contentsline {todo}{any insight into why...e.g., no way to keep records?}{16}{section*.80}
-\contentsline {todo}{meaning slips? seems high for actual slips. if correct, let's put in terms of weekly patient volume}{16}{section*.82}
-\contentsline {todo}{have you described this? include in the methods section}{16}{section*.84}
-\contentsline {todo}{to select from a menu of options that includes reporting a home visit}{16}{section*.85}
-\contentsline {todo}{entering the phone number the woman provided at enrollment...we also need to describe somewhere how the CHV gets the woman's number.}{16}{section*.86}
-\contentsline {todo}{before yesterday}{16}{section*.87}
-\contentsline {todo}{within the first day? need to be more specific here. cases observed are very late. even best case scenario might be outside of window when most maternal and neonatal deaths occur.}{19}{section*.94}
-\contentsline {todo}{i'd refrain from using the clinic name throughout this document, even in the setup section}{21}{section*.102}
-\contentsline {todo}{same here. refer to closest level 3 facility}{21}{section*.103}
+\contentsline {todo}{Justify why this study was focused on referrals and patient management. Conclude with objective(s) of the study. -A}{5}{section*.20}
+\contentsline {todo}{Where do I work this in? Not sure if it fits here or somewhere else. - A}{7}{section*.28}
+\contentsline {todo}{add that most deaths occur during delivery or within first few days}{9}{section*.30}
+\contentsline {todo}{i've never used paragraph tags in this manner. maybe rstudio adds them for me when i compile from rnw file}{9}{section*.32}
+\contentsline {todo}{add stat on percentage of compilcations and note that they are often hard to predict}{9}{section*.34}
+\contentsline {todo}{cite intrapartum strategy and debate about how to invest: more emoc or skilled attendants at birth. need to better set up the importance of referral system in both.}{9}{section*.35}
+\contentsline {todo}{i'd remove from ``by'' to end and introduce details later. specific details introduced here do not support referral piece, so it's not the best way to end this paragraph.}{9}{section*.36}
+\contentsline {todo}{insert mobile money and cite mpesa specfically before moving into health. that's where most progress has been made, certainly most uptake.}{10}{section*.38}
+\contentsline {todo}{not sure about ``most promising'' because we don't know compared to what. maybe just ``are a promising''.}{10}{section*.39}
+\contentsline {todo}{cite}{10}{section*.41}
+\contentsline {todo}{i think we need a better structure here. maybe funnel from technology, e.g., sms, to end-user, e.g., chw}{10}{section*.43}
+\contentsline {todo}{need to work in lavanya's paper}{10}{section*.44}
+\contentsline {todo}{not sure what you are saying with ``focused on mobile health interventions''}{10}{section*.45}
+\contentsline {todo}{check this. i thought they just provided the content, not the service}{11}{section*.47}
+\contentsline {todo}{i think you can expand this paragraph to synthesize the gaps, introduce baby monitor (all but technical details like verboice), and then articulate the motivation for this focus on referrals.}{11}{section*.49}
+\contentsline {todo}{i'd make this last sentence a new paragraph and describe the kenyan system in a few sentences. alternatively, and maybe preferably, add this to the introduction. if you do the latter, this sentence will have context.}{11}{section*.51}
+\contentsline {todo}{hmmm, philosophy sounds not scientific maybe philosopy and methods?}{11}{section*.52}
+\contentsline {todo}{add needs}{11}{section*.53}
+\contentsline {todo}{placeholder here for possible addition of use metrics}{11}{section*.55}
+\contentsline {todo}{could use a ``for instance'' here}{11}{section*.56}
+\contentsline {todo}{include distance}{12}{section*.58}
+\contentsline {todo}{i think we need to reference the new units that came out of the new constitution. provinces have been dissolved. counties are the new first level. we are in bungoma county. ndivisi is still the division.}{12}{section*.59}
+\contentsline {todo}{define}{12}{section*.60}
+\contentsline {todo}{maybe a footnote to explain positions. not all nurses had same level.}{12}{section*.63}
+\contentsline {todo}{define and talk about community units as part of community strategy}{12}{section*.64}
+\contentsline {todo}{i wonder if we should use the same HCD headings: hear, create, deliver...always good to anchor in terms of methodology}{12}{section*.65}
+\contentsline {todo}{i think this needs to be more active to represent what you did. really shadowing, right?}{13}{section*.68}
+\contentsline {todo}{if you introduce IVR at the end of the intro, then can assume reader remembers here. note that i am adding text directly to the document.}{13}{section*.70}
+\contentsline {todo}{i'd recommend mini-headings for each component}{13}{section*.72}
+\contentsline {todo}{be sure to define earlier}{14}{section*.73}
+\contentsline {todo}{replace with self-reported}{15}{section*.78}
+\contentsline {todo}{since we could have asked them to use the keys 1-4, design was not a limitation. ease of understaning and administration was the reason.}{15}{section*.79}
+\contentsline {todo}{With changes to structure of the section, this opening sentence needs to be revised.}{15}{section*.81}
+\contentsline {todo}{consider changing phase labels as noted in methods section}{15}{section*.82}
+\contentsline {todo}{i think this is the first this appears. introduce earlier, but even then, i suggest replacing acronym with the word supervisor.}{16}{section*.85}
+\contentsline {todo}{modify this description by deleting the part after the comma}{16}{section*.86}
+\contentsline {todo}{consider a different name of activity as mentioned earlier}{16}{section*.88}
+\contentsline {todo}{do we know why?}{16}{section*.89}
+\contentsline {todo}{any insight into why...e.g., no way to keep records?}{17}{section*.90}
+\contentsline {todo}{meaning slips? seems high for actual slips. if correct, let's put in terms of weekly patient volume}{17}{section*.92}
+\contentsline {todo}{have you described this? include in the methods section}{17}{section*.94}
+\contentsline {todo}{to select from a menu of options that includes reporting a home visit}{17}{section*.95}
+\contentsline {todo}{entering the phone number the woman provided at enrollment...we also need to describe somewhere how the CHV gets the woman's number.}{17}{section*.96}
+\contentsline {todo}{before yesterday}{17}{section*.97}
+\contentsline {todo}{within the first day? need to be more specific here. cases observed are very late. even best case scenario might be outside of window when most maternal and neonatal deaths occur.}{18}{section*.104}
+\contentsline {todo}{How do we notify CHVs of deliveries that they may not be aware of? This section still to be determined.}{19}{section*.108}
+\contentsline {todo}{i'd refrain from using the clinic name throughout this document, even in the setup section}{20}{section*.112}
+\contentsline {todo}{same here. refer to closest level 3 facility}{20}{section*.113}

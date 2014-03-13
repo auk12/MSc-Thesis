@@ -1,8 +1,17 @@
-\begin{thebibliography}{23}
+\begin{thebibliography}{26}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \expandafter\ifx\csname url\endcsname\relax
   \def\url#1{{\tt #1}}\fi
 \expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+
+\bibitem[{Cen()}]{Census2009}
+ (????).
+\newblock 2009 kenya population and housing census.
+
+\bibitem[{Com()}]{CommunityStrategy2006}
+ (????).
+\newblock Taking the kenya essential pacckage for health to the community: A
+  strategy for the delivery of level one services.
 
 \bibitem[{Adler(2007)}]{Adler2007}
 Adler, R. (2007).
@@ -128,6 +137,10 @@ UNICEF, et~al. (2008).
 \newblock Maternal and perinatal death inquiry and response: Empowering
   communities to avert maternal deaths in india.
 \newblock {\em New Delhi: UNICEF\/}.
+
+\bibitem[{Were et~al.(2011)Were, Kizito, \& Ndei}]{SPA2010}
+Were, S., Kizito, P., \& Ndei, C. (2011).
+\newblock Kenya service provision assessment survey 2010.
 
 \bibitem[{WHO. et~al.(2012)WHO., Bank., UNICEF, \& Fund.}]{WHO2012}
 WHO., Bank., W., UNICEF, \& Fund., U. N.~P. (2012).
