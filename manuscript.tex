@@ -14,6 +14,7 @@
 
 
 \usepackage{amsmath, amssymb, amsfonts, amsthm}
+\usepackage{enumerate}
 \usepackage{graphicx}
 \usepackage{natbib}
 \usepackage{url}
@@ -46,7 +47,7 @@
 }
 
 % Committee Members other than supervisor.  No more than five beyond the supervisor allowed.
-\member{Nimmi Ramanujan}
+\member{Nimmi Ramanujam}
 \member{Lavanya Vasudevan}
 
 \usepackage[xetex,bookmarks=true,colorlinks, linkcolor=black,urlcolor=black,citecolor=black, linktoc=section,]{hyperref}
@@ -70,7 +71,7 @@
 \tableofcontents % Automatically generated
 \listoftables	% If you have any tables, automatically generated
 \listoffigures	% If you have any figures, automatically generated
-%\include{{./Abbreviations/listofabbr}} % List of Abbreviations. Start file with '\abbreviations'
+\include{{./Abbreviations/listofabbr}} % List of Abbreviations. Start file with '\abbreviations'
 
 %-----------------------------------------------------------------------------%
 % ACKNOWLEDGEMENTS -- included file should start with '\acknowledgements'
@@ -102,12 +103,15 @@
 % Appendices
 %-----------------------------------------------------------------------------%
 \appendix
+\include{{./Appendix1/map}}
+\include{{./Appendix1/chv-report-2013}}
 \include{{./Appendix1/call-flows}}
+\include{{./Appendix1/usability}}
 
 %-----------------------------------------------------------------------------%
 % References
 %-----------------------------------------------------------------------------%
-\bibliographystyle{./Bibliography/apa} %Formats bibliography
+\bibliographystyle{./Bibliography/jasa} %Formats bibliography
 \cleardoublepage
 \normalbaselines %Fixes spacing of bibliography
 \addcontentsline{toc}{chapter}{References} %adds References to your table of contents

@@ -1,15 +1,18 @@
 This is BibTeX, Version 0.99dThe top-level auxiliary file: manuscript.aux
 A level-1 auxiliary file: ./Abstract/abstract.aux
+A level-1 auxiliary file: ./Abbreviations/listofabbr.aux
 A level-1 auxiliary file: ./Chapter1/chapter-one.aux
 A level-1 auxiliary file: ./Chapter2/academic-manuscript.aux
 A level-1 auxiliary file: ./Chapter3/chapter-three.aux
+A level-1 auxiliary file: ./Appendix1/map.aux
+A level-1 auxiliary file: ./Appendix1/chv-report-2013.aux
+A level-1 auxiliary file: ./Appendix1/call-flows.aux
 A level-1 auxiliary file: ./Appendix1/usability.aux
-A level-1 auxiliary file: ./Appendix2/call-flows.aux
-The style file: ./Bibliography/apa.bst
+The style file: ./Bibliography/jasa.bst
 Database file #1: ./Bibliography/BabyMonitor.bib
-I was expecting a `,' or a `}'---line 576 of file ./Bibliography/BabyMonitor.bib
+You're missing a field name---line 575 of file ./Bibliography/BabyMonitor.bib
  : 
- : year={2014}
+ : %howpublished={\url{http://http://www.mobilemamaalliance.org/mobile-messages}}
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
 I was expecting a `,' or a `}'---line 614 of file ./Bibliography/BabyMonitor.bib
@@ -17,15 +20,51 @@ I was expecting a `,' or a `}'---line 614 of file ./Bibliography/BabyMonitor.bib
  :   author = {Kenya Ministry of Health}
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 620 of file ./Bibliography/BabyMonitor.bib
+I was expecting a `,' or a `}'---line 621 of file ./Bibliography/BabyMonitor.bib
  :   
- :   year={2009}
+ :   title={2009 Kenya Population and Housing Census}
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 631 of file ./Bibliography/BabyMonitor.bib
+ :   
+ :   year={2008}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Bibliography style `jasa.bst' by Russ Lenth, April 1996 (rev. Mar. 1999)
 Warning--to sort, need author or key in CommunityStrategy2006
-Warning--to sort, need author or key in Census2009
-Warning--empty year in Census2009; set to ????
+[CommunityStrategy2006]
+Warning--empty author in CommunityStrategy2006
 Warning--empty year in CommunityStrategy2006; set to ????
+Warning--empty institution in CommunityStrategy2006
+[Adler2007]
 Warning--empty journal in Adler2007
+[ColeLewis2010]
+[DeRenzi2012]
+[Guy2012]
+[Horvath2012]
+[Hughes2007]
+[HCDToolkit]
+Warning--empty year in HCDToolkit; set to ????
+[Jareethum2008]
+[Census2009]
+Warning--empty year in Census2009; set to ????
+[Krishna2008]
+[Labrique2013]
+[Lee2003]
+[MAMA]
 Warning--empty year in MAMA; set to ????
-(There were 3 error messages)
+[Mas2010]
+[McCartney2012]
+[Oviatt2006]
+[Piette2000]
+[Ronsmans2006]
+[Sherwani2007]
+[Tamrat2012]
+[Thaddeus1994]
+[UNICEF2008]
+[SPA2010]
+Warning--empty institution in SPA2010
+[WHO2012]
+[Woods2012]
+[Yen2010]
+(There were 4 error messages)
