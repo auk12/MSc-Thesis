@@ -10,3 +10,8 @@ A level-1 auxiliary file: ./Appendix1/call-flows.aux
 A level-1 auxiliary file: ./Appendix1/usability.aux
 The style file: ./Bibliography/apalike.bst
 Database file #1: ./Bibliography/BabyMonitor.bib
+Illegal end of database file---line 487 of file ./Bibliography/BabyMonitor.bib
+ :   note = {\url{http://www.health.go.ke/images/downloads/press-releases/press-release-free-maternity-services-20th-Feb-2013.pdf}}
+ :                                                                                                                                 
+I'm skipping whatever remains of this entry
+(There was 1 error message)
