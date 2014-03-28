@@ -21,6 +21,11 @@ DeRenzi, B., Findlater, L., Payne, J., Birnbaum, B., Mangilima, J., Parikh, T.,
   Information and Communication Technologies and Development}, pages 25--34.
   ACM.
 
+\bibitem[{\relax Grameen Foundation}, 2011]{MOTECH2011}
+{\relax Grameen Foundation} (2011).
+\newblock {Mobile Technology for Community Health in Ghana: What it is and what
+  Grameen Foundation has learned so far}.
+
 \bibitem[Guy et~al., 2012]{Guy2012}
 Guy, R., Hocking, J., Wand, H., Stott, S., Ali, H., and Kaldor, J. (2012).
 \newblock {How effective are short message service reminders at increasing
@@ -83,6 +88,8 @@ Lee, H., Friedman, M.~E., Cukor, P., and Ahern, D. (2003).
 Macharia, J.~W. (2013).
 \newblock {Free Maternity Services}.
 \newblock Press Release.
+\newblock
+  \url{http://www.health.go.ke/images/downloads/press-releases/press-release-free-maternity-services-20th-Feb-2013.pdf}.
 
 \bibitem[MAMA, 2008]{MAMA}
 MAMA (2008).
@@ -102,14 +109,6 @@ McCartney, P. (2012).
 \bibitem[Obonyo et~al., 2010]{DHS2010}
 Obonyo, B., Miheso, A., and Wamae, A. (2010).
 \newblock {Kenya Demographic and Health Survey 2008-09}.
-
-\bibitem[Oviatt, 2006]{Oviatt2006}
-Oviatt, S. (2006).
-\newblock {Human-centered design meets cognitive load theory: designing
-  interfaces that help people think}.
-\newblock In {\em International Multimedia Conference: Proceedings of the 14 th
-  annual ACM international conference on Multimedia}, volume~23, pages
-  871--880.
 
 \bibitem[Piette, 2000]{Piette2000}
 Piette, J. (2000).

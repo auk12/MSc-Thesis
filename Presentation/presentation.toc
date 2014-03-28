@@ -1,6 +1,9 @@
 \beamer@endinputifotherversion {3.33pt}
 \beamer@sectionintoc {1}{Introduction}{3}{0}{1}
-\beamer@subsectionintoc {1}{1}{mHealth}{3}{0}{1}
-\beamer@sectionintoc {2}{Methods}{4}{0}{2}
-\beamer@sectionintoc {3}{Results}{5}{0}{3}
-\beamer@sectionintoc {4}{Discussion}{6}{0}{4}
+\beamer@subsectionintoc {1}{1}{Maternal Mortality}{3}{0}{1}
+\beamer@subsectionintoc {1}{2}{mHealth and Maternal Health}{5}{0}{1}
+\beamer@sectionintoc {2}{Methods}{9}{0}{2}
+\beamer@subsectionintoc {2}{1}{Setting}{9}{0}{2}
+\beamer@subsectionintoc {2}{2}{Human-Centered Design}{11}{0}{2}
+\beamer@sectionintoc {3}{Results}{15}{0}{3}
+\beamer@sectionintoc {4}{Discussion}{16}{0}{4}
