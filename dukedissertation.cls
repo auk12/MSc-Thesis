@@ -199,7 +199,7 @@
 \copyrighttext{All rights reserved}
 % Count the number of members, include supervisor
 \newcounter{@members}           % Number of member macros defined so far.
-\newcommand{\@membera}{\@member{\@supervisor, Supervisor}}
+\newcommand{\@membera}{\@member{\@supervisor, Co-Supervisor}}
 \setcounter{@members}{1}        % Supervisor is always 1st member
 % Members must be counted . . . up to seven non-supervisor members
 \newcommand{\member}[1]{
@@ -260,7 +260,8 @@
   \null
   \normalbaselines
   \begin{center}%
-    {\openup 2pc \LARGE \@title \par}%
+     {\Large \@title \par}
+    %{\openup 1pc \LARGE \@title \par}%
     \vskip 1em%
 	 \normalsize by \par%
 	 \vskip 1em%
