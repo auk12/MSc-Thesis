@@ -21,4 +21,3 @@ To be completed:
 - Uploaded first draft
 
 
-MSc Thesis - Amogh Karnik
